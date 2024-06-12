@@ -1,5 +1,8 @@
 # weather-app
 
+# Live Demo
+[](https://hudhaifa-1.github.io/Weather_App/)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
