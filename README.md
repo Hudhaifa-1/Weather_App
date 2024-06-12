@@ -1,9 +1,10 @@
 # weather-app
 
 
-# Live Demo
+<h1>Live Demo</h1>
+<hr/>
 
-[:](https://hudhaifa-1.github.io/Weather_App/)
+<a href="https://hudhaifa-1.github.io/Weather_App/"></a>
 
 This template should help get you started developing with Vue 3 in Vite.
 
